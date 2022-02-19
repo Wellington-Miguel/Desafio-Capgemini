@@ -1,7 +1,7 @@
 # Desafio Capgemini
-Repositório criado para armazenar as atividades do desafio proposto pela Capgemini.  
-Feito por **Wellington Miguel**, utilizando a linguagem de programação Java.  
-Os exercícios foram nomeados utilizando o número da questão a qual cada arquivo se refere.  
+>Repositório criado para armazenar as atividades do desafio proposto pela Capgemini.  
+>Feito por **Wellington Miguel**, utilizando a linguagem de programação Java.  
+>Os exercícios foram nomeados utilizando o número da questão a qual cada arquivo se refere.  
 ## [Questão 01](https://github.com/Wellington-Miguel/Desafio-Capgemini/blob/main/Questao_01.java)
  Escreva um algoritmo que mostre na tela uma escada de tamanho n utilizando o caractere * e espaços. A base e altura da escada devem ser iguais ao valor de n. A última linha não deve conter nenhum espaço.
 **Exemplo:**
